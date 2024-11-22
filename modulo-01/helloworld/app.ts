@@ -2,7 +2,7 @@
  * arquivo: helloworld/app.ts
  * descrição: arquivo responsável por ensinar conceitos básicos sobre TypeScript
  * data: 16/02/2021
- * author: Glaucia Lemos <@glaucia_lemos86>
+ * author: Ianco Soares <@ianco-so>
  * Transpilação do arquivo: <Windows> CTRL + SHIFT + B
  */
 

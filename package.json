@@ -20,6 +20,7 @@
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.44.0",
     "@typescript-eslint/parser": "^5.44.0",
+    "curso-typescript-zero-to-hero": "file:",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-prettier": "^4.2.1",
     "ts-node": "^10.9.1",
